@@ -1,0 +1,15 @@
+/* selector global */
+*{
+    margin:0%
+    pading:0%
+    color: white
+}
+/* selectores basicos */
+body{
+    border=solid red;
+    width:200px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    height: 100vp;
+}
